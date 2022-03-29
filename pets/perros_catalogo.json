@@ -1,0 +1,85 @@
+
+[
+	{
+		"nombre" : "Rayo",
+		"raza" : "Pastor malinois",
+		"leishmania" : "Negativo",
+		"licencia": "Necesita licencia PPP",
+		"protectora" : "Cantileros",
+		"mail" : "https://www.cantileros.es/rayo",
+		"comentarios" : "Hermano de Moro"
+	},
+	{
+		"nombre" : "Astra",
+		"raza" : "American Staffordshire",
+		"leishmania" : "Negativo",
+		"licencia": "Necesita licencia PPP",
+		"protectora" : "Cantileros",
+		"mail" : "https://www.cantileros.es/astra",
+		"comentarios" : "Sociable y cariñosa"
+
+		
+	},
+	{
+		"nombre" : "Shakira",
+		"raza" : "Pitbull",
+		"leishmania" : "Negativo",
+		"licencia": "Necesita licencia PPP",
+		"protectora" : "Cantileros",
+		"mail" : "https://www.cantileros.es/shakira",
+		"comentarios" : "Preciosa"
+
+	
+	},
+	{
+		"nombre" : "Dori",
+		"raza" : "Pitbull",
+		"leishmania" : "En proceso",
+		"licencia": "Necesita licencia PPP",
+		"protectora" : "Cantileros",
+		"mail" : "https://www.cantileros.es/dori",
+		"comentarios" : "Sociable y cariñosa"
+
+	},
+	{
+		"nombre" : "Lennon",
+		"raza" : "X Pitbull",
+		"leishmania" : "Negativo",
+		"licencia": "Necesita licencia PPP",
+		"protectora" : "Cantileros",
+		"mail" : "https://www.cantileros.es/lennon",
+		"comentarios" : "Sociable y cariñoso"
+	
+	},
+	{
+		"nombre" : "Moro",
+		"raza" : "Galgo",
+		"leishmania" : "Positivo",
+		"licencia": "No necesita",
+		"protectora" : "Cantileros",
+		"mail" : "https://www.cantileros.es/moro",
+		"comentarios" : "Hermano de Rayo"
+	
+	},
+	{
+		"nombre" : "Felipe",
+		"raza" : "Galgo",
+		"leishmania" : "Positivo",
+		"licencia": "Precioso y cariñoso",
+		"protectora" : "Cantileros",
+		"mail" : "https://www.cantileros.es/felipe",
+		"comentarios" : "Sociable y cariñoso"
+	
+	},
+	{
+		"nombre" : "Platanito",
+		"raza" : "Mestizo",
+		"leishmania" : "Negativo",
+		"licencia": "Necesita licencia PPP",
+		"protectora" : "Cantileros",
+		"mail" : "https://www.cantileros.es/platanito",
+		"comentarios" : "Precioso y sociable"
+	
+		
+	}
+] 
